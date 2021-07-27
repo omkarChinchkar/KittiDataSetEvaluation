@@ -1,4 +1,4 @@
-# KittiDataSetEvaluation
+# KittiDatasetEvaluation
 Evaluation of Kitti Dataset on Yolo based 
 
 ## Description
